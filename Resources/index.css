@@ -1,9 +1,11 @@
-* {
-  font-family: Verdana
-
+img {
+  text-align: center;
 }
 body {
   background-color: black;
+  font-family: Verdana;
+  text-align:center;
+
 }
 h1 {
   font-weight: normal;
